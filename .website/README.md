@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - casual
 directors_cut: http://siorki.github.io/2048over13/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
